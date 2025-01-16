@@ -2,43 +2,43 @@
 
 Senior Software Team Lead @ ForInvest IT
 
-Merhaba, ben Emre. ForInvest bilgi teknolojileri firmasında full-time Senior Software Team Lead olarak çalışıyorum. Java, TypeScript ve .NET teknolojileri ana odaklarım. Mimari tasarımlar ve dağıtılabilir sistemler üzerinde 15 yıldan fazla tecrübem bulunmakta.
+Hello, I'm Emre. I work full-time as a Senior Software Team Lead at ForInvest Information Technologies. My main focus areas are Java, TypeScript, and .NET technologies. I have over 15 years of experience in architectural designs and scalable systems.
 
-## Tecrübelerim
+## My Experience
 
-- **Java Teknolojileri**: 
-  - Borsa yayın sistemleri
-  - API ve iş mantığı kodları (Business Logic)
+- **Java Technologies**:  
+  - Stock market broadcasting systems  
+  - API and business logic development  
 
-- **.NET Teknolojileri**: 
-  - Ödeme sistemleri
-  - Vergi sistemleri
-  - CRM ve ERP uygulamaları
+- **.NET Technologies**:  
+  - Payment systems  
+  - Tax systems  
+  - CRM and ERP applications  
 
-- **TypeScript**:
-  - SDK geliştirme
-  - Node.js ile API'ler ve WebSocket yapıları
+- **TypeScript**:  
+  - SDK development  
+  - APIs and WebSocket structures with Node.js  
 
-- **Frontend Teknolojileri**:
-  - **React** ve **Vue.js**: Borsa terminalleri ve gelişmiş yönetim ekranları
-  - **React Native**: Cross-platform uygulamalar (iOS, Android, Web, Desktop - Electron) için borsa uygulamaları
+- **Frontend Technologies**:  
+  - **React** and **Vue.js**: Stock market terminals and advanced management dashboards  
+  - **React Native**: Cross-platform applications (iOS, Android, Web, Desktop - Electron) for stock market solutions  
 
-- **JavaScript ve Web Teknolojileri**:
-  - Web sayfaları, yönetim ekranları ve web uygulamaları geliştirme
+- **JavaScript and Web Technologies**:  
+  - Developing websites, management panels, and web applications  
 
-- **Bulut Teknolojileri**:
-  - AWS ve Google Cloud platformları tecrübesi
+- **Cloud Technologies**:  
+  - Experience with AWS and Google Cloud platforms  
 
-- **Yüksek Trafikli Sistemler**:
-  - Mikroservis tabanlı API'ler ve dağıtılabilir backend sistemleri
+- **High-Traffic Systems**:  
+  - Microservice-based APIs and scalable backend systems  
 
-- **Ödeme Sistemleri Entegrasyonları**:
-  - PayPal, Stripe gibi global ödeme sistemleri
+- **Payment System Integrations**:  
+  - Global payment systems like PayPal and Stripe  
 
-## Bağlantılar
+## Links
 
-- [Twitter](https://twitter.com/emretoprak)
-- [LinkedIn](https://www.linkedin.com/in/emre-toprak-b750a319/)
-- [Instagram](https://www.instagram.com/emretoprak)
+- [Twitter](https://twitter.com/emretoprak)  
+- [LinkedIn](https://www.linkedin.com/in/emre-toprak-b750a319/)  
+- [Instagram](https://www.instagram.com/emretoprak)  
 
 ---
