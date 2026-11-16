@@ -8,7 +8,7 @@
 
 <img src="https://emretoprak.com/docs/avatar.png" alt="Emre Toprak" width="132" height="132" />
 
-<h3>Head of AI Engineering · Fintech Architect</h3>
+<h3>Head of AI Engineering · AI Product Engineer · Fintech Architect</h3>
 
 <em>Generative AI · Agentic Systems · RAG · MCP</em>
 
@@ -56,6 +56,8 @@ My background spans high-performance financial systems, distributed architecture
 
 I am especially interested in building **AI agents that become reliable participants in the SDLC**: understanding requirements, analyzing codebases, generating and validating changes, improving test coverage, and supporting engineering teams.
 
+Operating with an **AI Product Engineer** mindset, I bridge product discovery, business analysis, UX/system design, implementation and QA — wearing multiple hats to take AI initiatives from concept to production.
+
 As a technical leader, I simplify complex engineering environments, connect multidisciplinary teams, and set pragmatic standards that let teams move faster without compromising reliability, security or scalability.
 
 > [!NOTE]
@@ -70,6 +72,7 @@ As a technical leader, I simplify complex engineering environments, connect mult
 | | Focus | What it means in practice |
 | :---: | :--- | :--- |
 | ⌁ | **AI Engineering & Agentic AI** | Agentic systems, autonomous agents, conversational graphs and AI-powered developer tools |
+| ◉ | **AI Product Engineering** | End-to-end delivery — discovery, business analysis, UX/UI prototyping, full-stack build and QA, concept to production |
 | ◈ | **Domain-Specific LLMs & Financial AI** | Financial terminology, workflows and domain knowledge; fine-tuning, model evaluation, production readiness |
 | ◌ | **Generative AI, RAG & MCP** | RAG architectures, Model Context Protocol integrations, semantic graphs, production-grade GenAI |
 | ⌬ | **AI-Native Software Engineering** | AI across architecture, dev, testing, security and ops to lift engineering productivity and R&D efficiency |
@@ -118,6 +121,7 @@ flowchart LR
 | Area | What I shipped |
 | :--- | :--- |
 | **Platforms** | [**ForMind**](https://formind.forinvest.com) + [**ForInvest MCP**](https://mcp.forinvest.com) — financial AI and MCP ecosystems |
+| **Product Engineering** | **End-to-end AI delivery** — product discovery, business analysis, UX/UI prototyping, full-stack implementation and QA, concept to production |
 | **Orchestration** | **AgentCore** — multi-LLM workflows across Claude, OpenAI and Google models |
 | **Dev Tooling** | **AI Developer agent** — GitLab-integrated; reads codebases, resolves issues, opens MRs |
 | **Retrieval** | Advanced **RAG** — financial document indexing, hybrid retrieval and semantic graphs |
@@ -277,7 +281,7 @@ Billions of monthly requests served from the edge.
 <br>
 
 **AI & Machine Learning**
-Human-in-the-loop Machine Learning · Agent orchestration · AI observability · LangChain · Large Language Models (LLM) · LangGraph · Langflow · RAG · MCP · Deep Learning · Machine Learning · Financial AI · TensorFlow
+AI Product Engineering · Human-in-the-loop Machine Learning · Agent orchestration · AI observability · LangChain · Large Language Models (LLM) · LangGraph · Langflow · RAG · MCP · Deep Learning · Machine Learning · Financial AI · TensorFlow · Algorithmic Trading
 
 **Backend**
 Java · Spring · Node.js · Python · .NET Framework · NHibernate · PHP
