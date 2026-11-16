@@ -8,7 +8,7 @@
 
 <img src="https://emretoprak.com/docs/avatar.png" alt="Emre Toprak" width="132" height="132" />
 
-<h3>Head of AI Engineering · AI Product Engineer · Fintech Architect</h3>
+<h3>Lead of AI Engineering · AI Product Engineer · Fintech Architect</h3>
 
 <em>Generative AI · Agentic Systems · RAG · MCP</em>
 
@@ -50,7 +50,7 @@ Istanbul, Türkiye · [**emretoprak.com**](https://emretoprak.com)
 
 With **20+ years in software engineering**, architecture and technical leadership, I build scalable systems at the intersection of **enterprise software, fintech and AI**.
 
-Today, as **Head of AI Engineering at [ForInvest](https://www.forinvest.com)**, I focus on turning Generative AI from experimentation into **reliable, production-grade engineering capabilities**.
+Today, as **Lead of AI Engineering at [ForInvest](https://www.forinvest.com)**, I focus on turning Generative AI from experimentation into **reliable, production-grade engineering capabilities**.
 
 My background spans high-performance financial systems, distributed architectures, and backend, desktop, mobile and web engineering. That breadth lets me approach AI not as an application layer bolted on top, but as part of the **entire software engineering lifecycle** — architecture, development, testing, security, deployment and operations.
 
@@ -105,7 +105,7 @@ flowchart LR
 
 | Role | Company | Period |
 | :--- | :--- | :--- |
-| **Head of AI Engineering** | ForInvest | Aug 2025 — Present |
+| **Lead of AI Engineering** | ForInvest | Aug 2025 — Present |
 | **Senior Software Developer Team Lead** | ForInvest | Dec 2022 — Aug 2025 |
 | **Software Team Lead** | Foreks | Oct 2014 — Dec 2022 |
 | **Senior Software Developer** | Innova | Jul 2012 — Feb 2014 |
@@ -114,7 +114,7 @@ flowchart LR
 
 <br>
 
-### 🟣 ForInvest — Head of AI Engineering
+### 🟣 ForInvest — Lead of AI Engineering
 
 > Building financial AI ecosystems on Model Context Protocol.
 
